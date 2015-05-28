@@ -6,6 +6,7 @@
   "versionCode": 1,
   "versionLabel": "0.4",
   "capabilities": [
+    "location",
     "configurable"
   ],
   "watchapp": {
